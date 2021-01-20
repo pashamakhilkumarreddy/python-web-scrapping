@@ -130,3 +130,6 @@ dmypy.json
 
 # Jobs Folder
 jobs/
+
+# VSCode
+.vscode/
